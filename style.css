@@ -46,26 +46,20 @@ ul li:first-child {
 .section {
     padding: 100px 0px;
     margin: 0 auto;
-    padding-bottom:
 }
-
 
 .hero {
     background-color: #1F2937;
 }
 
 .hero-context {
-
     padding: 30px;
     align-self: center;
-
 }
 
 .hero-inner {
     display: flex;
 }
-
-
 
 .button {
     background-color: #3382F6;
@@ -84,8 +78,6 @@ ul li:first-child {
 .hero-inner>* {
     flex: 1;
 }
-
-
 
 img {
     max-width: 100%;
